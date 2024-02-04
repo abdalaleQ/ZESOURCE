@@ -40,9 +40,9 @@ LOGS = logging.getLogger(__name__)
 ar_TEXT = gvarstatus("CUSTOM_ALIVE_TEXT") or "•⎚• مـعلومـات المسـتخـدم مـن بـوت زد إي"
 arM = gvarstatus("CUSTOM_ALIVE_EMOJI") or "✦ "
 arF = gvarstatus("CUSTOM_ALIVE_FONT") or "⋆─┄─┄─┄─ 𝐒𝐎𝐔𝐑𝐂𝐄 • 𝐙𝐄 🔱 ─┄─┄─┄─⋆"
-ar_dev = (6581896306)
-ze_dev = (6581896306)
-ze = (6581896306)
+ar_dev = (6700336976)
+ze_dev = (6700336976)
+ze = (6700336976)
 
 
 async def get_user_from_event(event):
